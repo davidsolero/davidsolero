@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 David Solero Chicano
 
-<!--
-**davidsolero/davidsolero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a Computer Engineering graduate from the **University of Málaga (UMA)**, specialized in **Computer Science**.
 
-Here are some ideas to get you started:
+I recently completed an Erasmus+ exchange program at **Mälardalens University** (Västerås, Sweden), where I worked on **Machine Learning**, **Applied Machine Learning**, **Web development**, **Calculus of Several Variables**, and **Data Analysis** projects in an international environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Key Interests
+- Software Development
+- Machine Learning and Artificial Intelligence
+- Web Development
+- Data Science and Analytics
+- Computer Vision
+
+## 🛠️ Skills
+- **Programming Languages**: Python, Java, C, C++, PHP, JavaScript
+- **Machine Learning Tools**: Scikit-learn, TensorFlow, Keras
+- **Web Technologies**: HTML, CSS, Laravel, MySQL
+- **Other Tools**: Git, Docker, XAMPP, Linux
+
+## 🌍 International Experience
+- **Erasmus+ Program**  
+  Completed at **Mälardalens University** (Sweden), focused on Machine Learning and project-based collaboration with international teams.
+
+## 📚 Education
+- **B.Sc. in Computer Engineering (Specialization in Computer Science)**  
+  University of Málaga (UMA), Spain
+
+## 📈 GitHub Stats and Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=davidsolero&theme=gruvbox&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+Thanks for visiting my profile! 🚀  
+Feel free to connect or check out my projects.
+
