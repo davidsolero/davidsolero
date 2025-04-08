@@ -1,6 +1,6 @@
 # 👋 David Solero Chicano
 
-Hello! I'm a Computer Engineering graduate from the **University of Málaga (UMA)**, specialized in **Computer Science**.
+Hello! I'm a Computer Engineering nearly graduate from the **University of Málaga (UMA)**, specialized in **Computer Science**.
 
 I recently completed an Erasmus+ exchange program at **Mälardalens University** (Västerås, Sweden), where I worked on **Machine Learning**, **Applied Machine Learning**, **Web development**, **Calculus of Several Variables**, and **Data Analysis** projects in an international environment.
 
